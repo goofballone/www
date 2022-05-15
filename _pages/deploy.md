@@ -1,0 +1,4 @@
+---
+title: "Deploy"
+permalink: /deploy/
+---
